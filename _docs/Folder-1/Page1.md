@@ -1,6 +1,6 @@
 ---
 title: Page 1
-category: Folder1
+category: Folder-1
 order: 1
 ---
 
