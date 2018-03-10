@@ -10,11 +10,11 @@ show_full_navigation: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Esh's Jekyll Site
-author: Esh	
+  author: Esh	
   name: Esh
   email:
   twitter: # twitter username without the @ symbol
-social:
+    social:
   name: 
   links:
     
