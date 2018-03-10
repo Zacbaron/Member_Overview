@@ -1,5 +1,5 @@
 ---
-title: Test
+title: 
 category:
 order: 1
 ---
