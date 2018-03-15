@@ -2,14 +2,8 @@
 title: Home
 ---
 
-# Heading 1
+# MemberCRM Overview
 
-Lorem ipsum dolor sit amet.
+Welcome to the MemberCRM Overview
 
-## Heading 2
-
-Lorem ipsum dolor sit amet.
-
-### Heading 3
-
-Lorem ipsum dolor sit amet.
+Search or select a menu item to get started
