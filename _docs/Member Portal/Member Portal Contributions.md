@@ -1,9 +1,9 @@
 ---
-title: Contributions
+title: Member Portal Contributions
 category: Member Portal
 order: 6
 ---
 
-Contributions
+Member Portal Contributions
 
 > This is the contributions page
