@@ -1,9 +1,9 @@
 ---
-title: Contributions
-category: Member Specific Features
-order: 2
+title: Member Features - Contributions
+category: Back Office
+order: 9
 ---
 
-Contributions
+Member Features - Contributions
 
 > This is the contributions page
