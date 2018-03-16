@@ -1,6 +1,6 @@
 ---
 title: Authorised Contacts
-category: Member Portal
+category: 5. Member Portal
 order: 4
 ---
 
