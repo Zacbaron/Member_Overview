@@ -1,9 +1,9 @@
 ---
-title: Dashboard
+title: Company Dashboard
 category: Company Portal
 order: 2
 ---
 
-Dashboard
+Company Dashboard
 
-> This is the Dashboard page
+> This is the company dashboard page
