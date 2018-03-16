@@ -1,6 +1,6 @@
 ---
 title: Administration
-category: 1. Back Office
+category: Back Office
 order: 7
 ---
 
