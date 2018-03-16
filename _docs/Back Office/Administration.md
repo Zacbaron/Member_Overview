@@ -4,6 +4,6 @@ category: Back Office
 order: 7
 ---
 
-Administration
+### Administration
 
 > This is the administration page
