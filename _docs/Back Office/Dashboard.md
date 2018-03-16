@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-category: Folder-1
+category: Back Office
 order: 2
 ---
 
