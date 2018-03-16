@@ -1,10 +1,10 @@
 ---
-title: Page 2
+title: Dashboard
 category: Folder-1
 order: 2
 ---
 
-This is page 2 of folder 1
+Dashboard Overview
 
-> Test page 2.
+> This is the dashboard overview page
 
