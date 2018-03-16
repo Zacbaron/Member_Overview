@@ -1,5 +1,5 @@
 ---
-title:  Member Features - SE Returns
+title: Member Features - SE Returns
 category: Back Office
 order: 11
 ---
