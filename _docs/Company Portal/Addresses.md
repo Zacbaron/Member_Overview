@@ -1,6 +1,6 @@
 ---
 title: Addresses
-category: 4. Company Portal
+category: Company Portal
 order: 7
 ---
 
