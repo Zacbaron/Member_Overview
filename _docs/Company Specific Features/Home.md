@@ -1,6 +1,6 @@
 ---
 title: Home
-category: 1. Company Specific Features
+category: Company Specific Features
 order: 1
 ---
 
