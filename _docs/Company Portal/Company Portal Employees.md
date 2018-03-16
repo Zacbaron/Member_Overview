@@ -1,9 +1,9 @@
 ---
-title: Employees
+title: Company Portal Employees
 category: Company Portal
 order: 4
 ---
 
-Employees
+Company Portal Employees
 
 > This is the employees page
