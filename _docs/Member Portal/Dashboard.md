@@ -1,10 +1,10 @@
 ---
 title: Dashboard
 category: Member Portal
-order: 1
+order: 2
 ---
 
-This is page 1 of member portal
+Dashboard
 
-> Test page 1.
+> This is the dashboard page
 
