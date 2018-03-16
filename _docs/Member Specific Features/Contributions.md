@@ -1,6 +1,6 @@
 ---
 title: Contributions
-category: AMember Specific Features
+category: Member Specific Features
 order: 2
 ---
 
