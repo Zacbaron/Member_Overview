@@ -1,10 +1,10 @@
 ---
 title: Dashboard
-category: Folder-2
+category: Member Portal
 order: 1
 ---
 
-This is page 1 of folder 2
+This is page 1 of member portal
 
 > Test page 1.
 
