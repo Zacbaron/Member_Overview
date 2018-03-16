@@ -1,5 +1,5 @@
 ---
-title: Page 1
+title: Dashboard
 category: Folder-2
 order: 1
 ---
