@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Company Home
 category: Company Specific Features
 order: 1
 ---
 
-Home
+Company Home
 
 > This is the home page
