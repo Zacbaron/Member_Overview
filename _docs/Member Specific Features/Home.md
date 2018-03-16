@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Member Home
 category: Member Specific Features
 order: 1
 ---
 
-Home
+Member Home
 
-> This is the home page
+> This is the member home page
