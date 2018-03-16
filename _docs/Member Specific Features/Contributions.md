@@ -1,6 +1,6 @@
 ---
 title: Contributions
-category: A. Member Specific Features
+category: Member Portal
 order: 2
 ---
 
