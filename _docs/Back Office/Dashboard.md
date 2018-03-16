@@ -4,7 +4,7 @@ category: Folder-1
 order: 2
 ---
 
-Dashboard Overview
+Dashboard
 
 > This is the dashboard overview page
 
