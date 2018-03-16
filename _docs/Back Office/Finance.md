@@ -4,6 +4,6 @@ category: Back Office
 order: 4
 ---
 
-Finance
+### Finance
 
 > This is the Finance page
