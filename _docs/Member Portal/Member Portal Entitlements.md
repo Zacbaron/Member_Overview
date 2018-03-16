@@ -1,9 +1,9 @@
 ---
-title: Entitlements
+title: Member Portal Entitlements
 category: Member Portal
 order: 7
 ---
 
-Entitlements
+Member Portal Entitlements
 
 > This is the entitlements page
