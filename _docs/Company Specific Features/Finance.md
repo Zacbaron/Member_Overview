@@ -1,6 +1,6 @@
 ---
 title: Finance
-category: Company Specific Features
+category: Back Office Company Specific Features
 order: 3
 ---
 
