@@ -1,9 +1,9 @@
 ---
-title: Entitlements
-category: Member Specific Features
-order: 3
+title: Member Features - Entitlements
+category: Back Office
+order: 10
 ---
 
-Entitlements
+Member Features - Entitlements
 
 > This is the entitlements page
