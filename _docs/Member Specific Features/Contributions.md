@@ -1,6 +1,6 @@
 ---
 title: Contributions
-category: Member Specific Features
+category: Back Office
 order: 2
 ---
 
