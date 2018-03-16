@@ -1,9 +1,9 @@
 ---
-title: Finance
+title: Member Finance
 category: Member Specific Features
 order: 5
 ---
 
-Finance
+Member Finance
 
-> This is the finance page
+> This is the member finance page
