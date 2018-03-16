@@ -1,9 +1,9 @@
 ---
-title: Member Home
-category: Member Specific Features
-order: 1
+title: Member Features - Home
+category: Back Office
+order: 8
 ---
 
-Member Home
+Member Features - Member Home
 
 > This is the member home page
