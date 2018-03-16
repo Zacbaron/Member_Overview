@@ -1,9 +1,9 @@
 ---
-title: SE Returns
-category: Member Specific Features
-order: 4
+title:  Member Features - SE Returns
+category: Back Office
+order: 11
 ---
 
-SE Returns
+Member Features - SE Returns
 
 > This is the SE Returns page
