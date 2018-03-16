@@ -1,6 +1,6 @@
 ---
 title: Menu Overview
-category: Member Specific Features
+category: Member Portal
 order: 1
 ---
 
