@@ -1,6 +1,6 @@
 ---
 title: Company Finance
-category: Company Specific Features
+category: 2. Company Specific Features
 order: 3
 ---
 
