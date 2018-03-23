@@ -1,7 +1,7 @@
 ---
 title: Company Portal Summary
 category: Company Portal
-order: 0
+order: 1
 ---
 
 ### Company Portal Summary
