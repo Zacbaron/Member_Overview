@@ -6,6 +6,10 @@ order: 13
 
 ### Company Features - Returns
 
-The returns page gives users a list of all the returns associated to a company, its details, and their state of completion. Users are able to create new returns here, as well as view and edit the returns in the company portal.
+The Returns page displays an extensive list of all the returns associated to the company, its details, and their state of completion. back office operators are able to view, edit, and create new returns ad hoc from this page. 
 
-[image of returns page]
+Returns are generated periodically and are configurable to meet the specifications of the fund manager. 
+
+![Company Returns List](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/companyreturnslist.png "Company Returns List")
+
+![Company Returns View](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/companyreturnview.png "Company Returns View")
