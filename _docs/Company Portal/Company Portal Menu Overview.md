@@ -1,7 +1,7 @@
 ---
 title: Company Portal Menu Overview
 category: Company Portal
-order: 1
+order: 2
 ---
 
 Company Portal Menu Overview
