@@ -19,4 +19,4 @@ Some of the key features of MEMBER CRM finance is listed below:
  - Online and manual entitlement processing. 
  - Bank file integration - ABA file export.
 
-![Dashboard](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/finance.png "Dashboard")
+![Finance](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/finance.png "Finance")
