@@ -1,11 +1,17 @@
 ---
-title: Member Features - SE Returns
+title: Member Features - Self Employed Returns
 category: Back Office
 order: 11
 ---
 
-### Member Features - SE Returns
+### Member Features - Self Employed Returns
 
-The SE Returns page give a comprehensive list of all the SE Returns associated to the member. MemberCRM displays returns in their different states, allowing a user to quickly view what returns are open, being edited, or have been finalised and paid out. Users are also able to create new SE Returns, or view the SE Returns more in depth, and view any invoices and receipts linked to the return.
+Self Employed Returns (SE Returns) are generated for members who are contributing as a Self Employed, Contractor or Working Director. The is no restrictions for member to receive both Self Employed Contribution and contributions from one or more companies in the same period.  
 
-[image of SE Returns]
+The SE Returns page displays a comprehensive list of all the SE returns associated to the member. MEMBER CRM displays returns in their different states, allowing a back office operator to intuitively view what returns are open, being edited, or have been finalised and paid out.
+
+![Member Return List](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/memberreturnlist.png "Member Return List")
+
+![Member Return View](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/memberreturnview.png "Member Return View")
+
+Back office operators are also able to create new SE Returns, or view the SE Returns more in depth, and view any invoices and receipts linked to the return.
