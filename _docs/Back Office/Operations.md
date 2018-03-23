@@ -18,4 +18,4 @@ The Operations dashboard is a hub for back office operators to be able to move s
  - Tasks - Tasks 
  - Correspondence - Correspondence
 
-![Dashboard](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/operations.png "Dashboard")
+![Operations](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/operations.png "Operations")
