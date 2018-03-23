@@ -1,7 +1,7 @@
 ---
 title: Member Portal Menu Overview
 category: Member Portal
-order: 1
+order: 2
 ---
 
 Member Portal Menu Overview
