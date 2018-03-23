@@ -6,7 +6,10 @@ order: 11
 
 ### Member Features - Member Finance
 
-MemberCRM displays a comprehensive list of transactions associated to a member. All transactions have links attached to them, so a user is able to navigate to the return or transaction with ease.
-Users also have the option to create new invoices, credit notes, or manage refunds from this page.
+MEMBER CRM displays an extensive list of transactions associated to a member. All transactions have hyperlinks attached to them, so a back office operator is able to navigate to the return or transaction with ease.
 
-[image of finance]
+Transactions will only appear for a member if they are contributing as a Self Employed, Contractor or Working Director. 
+
+![Member Finance](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/memberfinance.png "Member Finance")
+
+MEMBER CRM also provides functionality to create new invoices, credit notes, or manage refunds (with workflow and approvals) from this page.
