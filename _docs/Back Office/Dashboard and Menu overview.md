@@ -14,4 +14,6 @@ MEMBER CRM captures several hundred discrete actions performed by all users in t
 
 ![Dashboard](https://github.com/Zacbaron/Member_Overview/Back_Office/images/dashboard.png)
 
+![useful image]({{ site.url }}/image/Back_Office/dashboard.png)
+
 MEMBER CRM’s menu system provides back office operators seamless access to all areas of the system, while the top bar allows back office operators to edit their profile, switch between Funds, and access the administration components of the system.
