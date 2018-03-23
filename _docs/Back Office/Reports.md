@@ -39,4 +39,4 @@ Members
 Audit
  - Activity Feed Report - Generate activity feed data.
 
-![Dashboard](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/reports.png "Dashboard")
+![Reports](https://github.com/zacbaron/member_overview/raw/master/images/Back_Office/reports.png "Reports")
