@@ -12,5 +12,5 @@ MEMBER CRM displays the returns in their different states, so members are able t
 
 ![Member Return List](https://github.com/zacbaron/member_overview/raw/master/images/Portal/memberreturnlist.png "Member Return List")
 
-![Member Return View](https://github.com/zacbaron/member_overview/raw/master/images/Portal/memberreturnview.png "Member Return View")
+
 
